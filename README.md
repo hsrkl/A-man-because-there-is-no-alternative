@@ -1,2 +1,2 @@
-# A-man-because-there-is-no-alternative
-A very square man
+First, use _pip install turtle_ in cmd to download the turtle module
+then, run code
